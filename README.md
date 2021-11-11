@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Emanuel-David
-- 👀 I’m interested in programming, web dev, robotics, all sorts of engineering fields!
-- 🌱 I’m currently learning at School of Code!
-- 💞️ I’m looking to collaborate on creating an API-based website. A very good idea I had since a long time ago.
-- 📫 How to reach me => Instagram => @davearchetype
+- 👀 I’m interested in software engineering, robotics and others!
+- 🌱 I’m currently planning a big project!
+- 💞️ I’m looking to collaborate on anything, as I will surely learn and improve myself with the help of any dev I'd work with. Anyone would.
+- 📫 How to reach me => email at edavid@gmx.com
 
 <!---
 DaveArchetype/DaveArchetype is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
