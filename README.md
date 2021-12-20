@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Emanuel-David
 - 👀 I’m interested in software engineering, robotics and others!
-- 🌱 I’m currently planning a big project!
+- 🌱 I’m currently working on different projects just to learn more!
 - 💞️ I’m looking to collaborate on anything, as I will surely learn and improve myself with the help of any dev I'd work with. Anyone would.
-- 📫 How to reach me => email at edavid@gmx.com
 
   
 <!---
