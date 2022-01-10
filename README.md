@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emanuel-David
-- 👀 I’m interested in software engineering, robotics and others!
-- 🌱 I’m currently working on different projects just to learn more!
-- 💞️ I’m looking to collaborate on anything, as I will surely learn and improve myself with the help of any dev I'd work with. Anyone would.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m working on stuff every other day if not more often, making sure I take small steps to improve as often as I can.
+- 💞️ I’m looking to collaborate on anything, as I will surely be a great experience to learn.
 
   
 <!---
