@@ -14,7 +14,7 @@ I'm a full-stack developer with a passion for building robust, type-safe systems
 - **Infrastructure**: Docker, Kubernetes, AWS, Terraform, SST
 - **DIY & Hardware**: Arduino, Raspberry Pi, SMD soldering, board repair
 
-### 🐟 Freshwater Enthusiast
+### 🐟 Freshwater Aquarium Enthusiast
 - Maintaining a thriving freshwater aquarium ecosystem
 
 ### 🔧 Retro Tech Collector
